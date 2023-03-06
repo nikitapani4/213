@@ -1,0 +1,16 @@
+C:\Users\rusma\Desktop\GB\CS\cs_task10\bin\Debug\net5.0\cs_task10.exe
+C:\Users\rusma\Desktop\GB\CS\cs_task10\bin\Debug\net5.0\cs_task10.deps.json
+C:\Users\rusma\Desktop\GB\CS\cs_task10\bin\Debug\net5.0\cs_task10.runtimeconfig.json
+C:\Users\rusma\Desktop\GB\CS\cs_task10\bin\Debug\net5.0\cs_task10.runtimeconfig.dev.json
+C:\Users\rusma\Desktop\GB\CS\cs_task10\bin\Debug\net5.0\cs_task10.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task10\bin\Debug\net5.0\ref\cs_task10.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task10\bin\Debug\net5.0\cs_task10.pdb
+C:\Users\rusma\Desktop\GB\CS\cs_task10\obj\Debug\net5.0\cs_task10.csproj.AssemblyReference.cache
+C:\Users\rusma\Desktop\GB\CS\cs_task10\obj\Debug\net5.0\cs_task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusma\Desktop\GB\CS\cs_task10\obj\Debug\net5.0\cs_task10.AssemblyInfoInputs.cache
+C:\Users\rusma\Desktop\GB\CS\cs_task10\obj\Debug\net5.0\cs_task10.AssemblyInfo.cs
+C:\Users\rusma\Desktop\GB\CS\cs_task10\obj\Debug\net5.0\cs_task10.csproj.CoreCompileInputs.cache
+C:\Users\rusma\Desktop\GB\CS\cs_task10\obj\Debug\net5.0\cs_task10.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task10\obj\Debug\net5.0\ref\cs_task10.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task10\obj\Debug\net5.0\cs_task10.pdb
+C:\Users\rusma\Desktop\GB\CS\cs_task10\obj\Debug\net5.0\cs_task10.genruntimeconfig.cache
