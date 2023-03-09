@@ -1,0 +1,16 @@
+C:\Users\rusma\Desktop\GB\CS\cs_task21\obj\Debug\net5.0\cs_task21.csproj.AssemblyReference.cache
+C:\Users\rusma\Desktop\GB\CS\cs_task21\obj\Debug\net5.0\cs_task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusma\Desktop\GB\CS\cs_task21\obj\Debug\net5.0\cs_task21.AssemblyInfoInputs.cache
+C:\Users\rusma\Desktop\GB\CS\cs_task21\obj\Debug\net5.0\cs_task21.AssemblyInfo.cs
+C:\Users\rusma\Desktop\GB\CS\cs_task21\obj\Debug\net5.0\cs_task21.csproj.CoreCompileInputs.cache
+C:\Users\rusma\Desktop\GB\CS\cs_task21\bin\Debug\net5.0\cs_task21.exe
+C:\Users\rusma\Desktop\GB\CS\cs_task21\bin\Debug\net5.0\cs_task21.deps.json
+C:\Users\rusma\Desktop\GB\CS\cs_task21\bin\Debug\net5.0\cs_task21.runtimeconfig.json
+C:\Users\rusma\Desktop\GB\CS\cs_task21\bin\Debug\net5.0\cs_task21.runtimeconfig.dev.json
+C:\Users\rusma\Desktop\GB\CS\cs_task21\bin\Debug\net5.0\cs_task21.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task21\bin\Debug\net5.0\ref\cs_task21.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task21\bin\Debug\net5.0\cs_task21.pdb
+C:\Users\rusma\Desktop\GB\CS\cs_task21\obj\Debug\net5.0\cs_task21.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task21\obj\Debug\net5.0\ref\cs_task21.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task21\obj\Debug\net5.0\cs_task21.pdb
+C:\Users\rusma\Desktop\GB\CS\cs_task21\obj\Debug\net5.0\cs_task21.genruntimeconfig.cache
