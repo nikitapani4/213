@@ -1,0 +1,16 @@
+C:\Users\rusma\Desktop\GB\CS\cs_task23\obj\Debug\net5.0\cs_task23.csproj.AssemblyReference.cache
+C:\Users\rusma\Desktop\GB\CS\cs_task23\obj\Debug\net5.0\cs_task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusma\Desktop\GB\CS\cs_task23\obj\Debug\net5.0\cs_task23.AssemblyInfoInputs.cache
+C:\Users\rusma\Desktop\GB\CS\cs_task23\obj\Debug\net5.0\cs_task23.AssemblyInfo.cs
+C:\Users\rusma\Desktop\GB\CS\cs_task23\obj\Debug\net5.0\cs_task23.csproj.CoreCompileInputs.cache
+C:\Users\rusma\Desktop\GB\CS\cs_task23\bin\Debug\net5.0\cs_task23.exe
+C:\Users\rusma\Desktop\GB\CS\cs_task23\bin\Debug\net5.0\cs_task23.deps.json
+C:\Users\rusma\Desktop\GB\CS\cs_task23\bin\Debug\net5.0\cs_task23.runtimeconfig.json
+C:\Users\rusma\Desktop\GB\CS\cs_task23\bin\Debug\net5.0\cs_task23.runtimeconfig.dev.json
+C:\Users\rusma\Desktop\GB\CS\cs_task23\bin\Debug\net5.0\cs_task23.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task23\bin\Debug\net5.0\ref\cs_task23.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task23\bin\Debug\net5.0\cs_task23.pdb
+C:\Users\rusma\Desktop\GB\CS\cs_task23\obj\Debug\net5.0\cs_task23.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task23\obj\Debug\net5.0\ref\cs_task23.dll
+C:\Users\rusma\Desktop\GB\CS\cs_task23\obj\Debug\net5.0\cs_task23.pdb
+C:\Users\rusma\Desktop\GB\CS\cs_task23\obj\Debug\net5.0\cs_task23.genruntimeconfig.cache
