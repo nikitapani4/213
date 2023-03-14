@@ -1,0 +1,16 @@
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\obj\Debug\net5.0\task34.csproj.AssemblyReference.cache
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\obj\Debug\net5.0\task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\obj\Debug\net5.0\task34.AssemblyInfoInputs.cache
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\obj\Debug\net5.0\task34.AssemblyInfo.cs
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\obj\Debug\net5.0\task34.csproj.CoreCompileInputs.cache
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\bin\Debug\net5.0\task34.exe
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\bin\Debug\net5.0\task34.deps.json
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\bin\Debug\net5.0\task34.runtimeconfig.json
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\bin\Debug\net5.0\task34.runtimeconfig.dev.json
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\bin\Debug\net5.0\task34.dll
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\bin\Debug\net5.0\ref\task34.dll
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\bin\Debug\net5.0\task34.pdb
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\obj\Debug\net5.0\task34.dll
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\obj\Debug\net5.0\ref\task34.dll
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\obj\Debug\net5.0\task34.pdb
+C:\Users\rusma\Desktop\GB\CS\CShHw\task34\obj\Debug\net5.0\task34.genruntimeconfig.cache
